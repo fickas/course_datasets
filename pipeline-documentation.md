@@ -3,7 +3,7 @@
 ## Pipeline Overview
 This pipeline preprocesses the Titanic dataset to prepare it for machine learning modeling. It handles categorical encoding, target encoding, outlier detection and treatment, feature scaling, and missing value imputation.
 
-<img src="https://github.com/fickas/asynch_models/blob/main/transform_pipeline.png?raw=true" width="40%" alt="Pipeline Diagram">
+<img src="https://github.com/fickas/asynch_models/blob/main/transform_pipeline.png?raw=true" width="70%" alt="Pipeline Diagram">
 
 ## Step-by-Step Design Choices
 
