@@ -3,6 +3,8 @@
 ## Pipeline Overview
 This pipeline preprocesses the Titanic dataset to prepare it for machine learning modeling. It handles categorical encoding, target encoding, outlier detection and treatment, feature scaling, and missing value imputation.
 
+![Pipeline Diagram](https://github.com/fickas/asynch_models/blob/main/transform_pipeline.png?raw=true)
+
 ## Step-by-Step Design Choices
 
 ### 1. Gender Mapping (`map_gender`)
